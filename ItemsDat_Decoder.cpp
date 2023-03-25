@@ -276,5 +276,4 @@ auto _tmain(int argc, char const *argv[]) -> int
 	std::cout << "items.dat decoding finished in " << std::chrono::duration_cast<std::chrono::microseconds>(timer_stop).count() << "μs" << std::endl;
 	
 	return 0;
-}eturn 0;
 }

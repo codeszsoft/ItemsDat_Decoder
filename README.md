@@ -15,7 +15,7 @@ This project has been tested for building using clang version 15.0.7 and works p
 Enter the following command in the console to build this project:
 
 ```
-g++ ItemsDat_Decoder -o decoder -std=c++17
+g++ ItemsDat_Decoder.cpp -o decoder -std=c++17
 ```
 
 And run the program using the following command:
